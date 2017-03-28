@@ -1,5 +1,5 @@
 {
-    "name": "rklandesverband/yii2-oci8date",
+    "name": "rklandesverband/yii2-oci8dbdate",
     "description": "Oci8db Date format wegen der ausgabe",
     "type": "yii2-extension",
     "version": "1.0",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "rklandesverband\\oci8date\\": ""
+            "rklandesverband\\oci8dbdate\\": ""
         }
     }
 }

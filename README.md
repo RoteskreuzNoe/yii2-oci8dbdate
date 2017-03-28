@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist oci8db/yii2-oci8dbdateformat "*"
+php composer.phar require --prefer-dist oci8db/yii2-oci8dbdate "*"
 ```
 
 or add
 
 ```
-"oci8db/yii2-oci8dbdateformat": "*"
+"oci8db/yii2-oci8dbdate": "*"
 ```
 
 to the require section of your `composer.json` file.
