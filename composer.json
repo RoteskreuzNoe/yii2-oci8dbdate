@@ -1,0 +1,22 @@
+{
+    "name": "rklandesverband/yii2-oci8date",
+    "description": "Oci8db Date format wegen der ausgabe",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian Schneider",
+            "email": "ian.schneider@n.roteskreuz.at"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "sfedosimov/yii2-oci8pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "rklandesverband\\oci8date\\": ""
+        }
+    }
+}
